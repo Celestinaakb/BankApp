@@ -1,2 +1,2 @@
 # BankApp
-A mini bank app for seamlass payment
+A mini bank app for seamless payment
